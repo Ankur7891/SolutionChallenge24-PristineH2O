@@ -8,6 +8,6 @@ PristineH2O is a revolutionary mobile application designed to inspire and facili
 ##### 4.pH Monitoring: A unique aspect of PristineH2O is its pH monitoring feature. Users can use the app to check the pH levels of the water in specific locations. 
 
 
-To run project:
-For App part : Clone the repo and flutter run in android studio will run it
-For ML part : RUN bottle_detection.ipynb
+## To run project:
+##### For App part : Clone the repo and flutter run in android studio will run it
+##### For ML part : RUN bottle_detection.ipynb
